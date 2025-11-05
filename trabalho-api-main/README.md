@@ -44,11 +44,11 @@ Instalação
 
 ## Clone o repositório:
 
-git clone [SEU_LINK_DO_REPOSITORIO]
+git clone (https://github.com/CaioBraga88/MetroStay2.0.git)
 
 ## Navegue até o diretório do projeto:
 
-cd metro-stay-api
+cd MetroStay\trabalho-api-main
 
 ## Configure o banco de dados:
 
@@ -171,6 +171,6 @@ Resposta:
 
 Desenvolvido como parte do trabalho acadêmico de 
 
-$$SEU NOME / GRUPO$$
+$$ Caio, Lucas, Felipe e Victor / MetroStay $$
 
 .
